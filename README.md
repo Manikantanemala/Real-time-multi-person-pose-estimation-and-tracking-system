@@ -1,4 +1,3 @@
-# Real-time-multi-person-pose-estimation-and-tracking-system
 # Real-Time Multi-Person Pose Estimation and Tracking System
 
 This project implements a **real-time multi-person pose estimation and tracking system** using the MoveNet model from TensorFlow Hub. The system can detect and track the poses of up to six people simultaneously using a webcam.
